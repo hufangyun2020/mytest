@@ -4,6 +4,7 @@ public class MyTest {
 
 	public static void main(String[] args) {
 		System.out.println("123456789055555");
+		System.out.println("123456789012345");
 	}
 
 }
