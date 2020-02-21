@@ -8,6 +8,8 @@ public class MyTest {
 		System.out.println("222");
 		System.out.println("333");
 		System.out.println("444");
+		System.out.println("5");
+		System.out.println("6");
 	}
 
 }
